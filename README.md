@@ -36,5 +36,5 @@ Use [Repl Link](https://replit.com/@SpEcHiDe/GenerateStringSession) to get pyrog
 - [ImJanindu](https://github.com/ImJanindu): Dev
 - [InukaASiTH](https://github.com/InukaAsith): Dev
 - [Laky](https://github.com/Laky-64) & [Andrew](https://github.com/AndrewLaneX): PyTgCalls
-- [Original Repo](https://github.com/suprojects/CallsMusic)
+- [Original Repo](https://github.com/thechosenone07/RHYTHM)
 - [JARVIS](https://t.me/J_A_R_V_l_S)
