@@ -22,7 +22,7 @@ Add me to your group and play music freely!✨**
                         "🕸️ Developer 🕸️", url="https://t.me/J_A_R_V_l_S")
                   ],[
                     InlineKeyboardButton(
-                        "Help", url="https://t.me/RHYTHMPROBOT"
+                        "Rhythm 🎶", url="https://t.me/RHYTHMPROBOT"
                     ),
                     InlineKeyboardButton(
                         "Source🛠", url="https://t.me/orthod_irunna_sankadam_varum/2"
