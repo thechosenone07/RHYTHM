@@ -7,13 +7,13 @@ from helpers.filters import other_filters2
 
 @Client.on_message(other_filters2)
 async def start(_, message: Message):
-    await message.reply_sticker("CAACAgQAAx0CTv65QgABBfJlYF6VCrGMm6OJ23AxHmD6qUSWESsAAhoQAAKm8XEeD5nrjz5IJFYeBA")
+    await message.reply_sticker("CAACAgUAAxkBAAEoKT5hG4oWVSekTAie7BulSwTU92tzrQACYwMAAgHByFRdHEdhsMLgYCAE")
     await message.reply_text(
         f"""**Hey, I'm {bn} 🎵
 
-I can play music in your group's voice call. Developed by [Jason](https://t.me/ImJanindu).
+I can play music in your group's voice chat. How's that 🤓🎶
 
-Add me to your group and play music freely!**
+Add me to your group and play music freely!✨**
         """,
         reply_markup=InlineKeyboardMarkup(
             [
